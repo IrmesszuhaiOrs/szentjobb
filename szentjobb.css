@@ -31,6 +31,7 @@ hr
 {
     width: 220px;
     margin-left: 20px;
+    float: right;
 }
 
 #kapolna
@@ -67,7 +68,4 @@ body {
 p {
     text-align: justify;
     font-size: 16px;
-}
-#apatsag {
-    float: right;
 }
