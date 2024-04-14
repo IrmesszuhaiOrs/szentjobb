@@ -38,6 +38,7 @@ hr
 {
     width: 220px;
     margin-right: 20px;
+    float: left;
 }
 
 #vonat
@@ -51,6 +52,7 @@ hr
 {
     width: 320px;
     margin-right: 20px;    
+    float: left;
 }
 
 #forras
